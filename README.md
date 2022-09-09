@@ -1,0 +1,1 @@
+# java-dynamodb-rest-api-poc
